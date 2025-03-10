@@ -4,13 +4,13 @@
 
 - 🎓 Final-year Computer Science Student  
 - 💻 Building [ChainTix](https://github.com/raghavnimbalkar1/ChainTix) - Blockchain-based ticketing system  
-- 🌱 Currently learning C++, DSA, and Advanced C++
+- 🌱 Currently learning C, C#, C++, DSA, and OpenGL
 
 ---
 
 ## 🚀 Featured Projects
-- [ChainTix](https://github.com/raghavnimbalkar1/ChainTix) - Blockchain-based ticketing system with NFT tickets.  
-- [Personal Blog](https://github.com/raghavnimbalkar1/Personal-Blog) - MERN stack blog website.  
+- [ChainTix](https://github.com/raghavnimbalkar1/ChainTix) - Blockchain-based ticketing system with NFT tickets using MERN and Tailwind.  
+- [Personal Blog](https://github.com/raghavnimbalkar1/Personal-Blog) - Blog Website made using Next.js and Tailwind.  
 - [DigitalShelf](https://github.com/raghavnimbalkar1/DigitalShelf) - Media collection tracker using Next.js and Tailwind.  
 
 ---
