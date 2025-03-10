@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Raghav Nimbalkar!
+# Hi, I'm Raghav Nimbalkar!
 
-**`Software Developer | Game Developer | Blockchain Enthusiast`**
+**`Software Developer | Game Developer |`**
 
 - 🎓 Final-year Computer Science Student  
 - 💻 Building [ChainTix](https://github.com/raghavnimbalkar1/ChainTix) - Blockchain-based ticketing system  
@@ -81,22 +81,22 @@
 - [LinkedIn](https://www.linkedin.com/in/raghavnimbalkar)  
 - [Twitter](https://twitter.com/your-twitter-handle)  
 - [Portfolio](https://raghavnimbalkarshowcase.vercel.app/gallery)  
-- 📧 **Email:** raghavnimbalkar@example.com  
+- 📧 **Email:** raghavnimbalkar1010@gmail.com  
 
 ---
 
 ## 🎯 Goals for 2025
 
 - 🚀 Complete and launch **ChainTix**.  
-- 🛠 Build a LAN-based voice and chat system like Discord in C#.  
+- 🛠 Build a LAN-based voice and chat system like Discord in C#/C++.
+- 🛠 Build a Notion based app to track tasks and other objectives using C#/C++.    
 
 ---
 
 ## 💬 Quote
 
-_"Imagine waking up one day, realizing that all your peers have moved ahead, securing their futures, while you're stuck in the same place, all because you couldn't push through the temporary discomfort of studying. Each day you procrastinate, the world moves on without you, and the opportunities you dreamed of slip further away."_
-
----
+“We can only see a short distance ahead, but we can see plenty there that needs to be done.”
+— Alan Turing
 
 ### 🌟 Thanks for visiting my profile! ⭐️
 
