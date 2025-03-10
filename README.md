@@ -29,8 +29,9 @@
 ![Godot](https://img.shields.io/badge/-Godot-478CBF?style=flat&logo=godot-engine&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/-OpenGL-5586A4?style=flat&logo=opengl&logoColor=white)
 ![GLSL](https://img.shields.io/badge/GLSL-008080?style=flat&logo=opengl&logoColor=white)
+![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat&logo=blender&logoColor=white)
 ![Aseprite](https://img.shields.io/badge/-Aseprite-7D929E?style=flat&logo=aseprite&logoColor=white)
-![FL Studio](https://img.shields.io/badge/-FL_Studio-F48C00?style=flat&logo=image-line&logoColor=white)
+![FL Studio](https://img.shields.io/badge/-FL_Studio-F48C00?style=flat&logo=flstudio&logoColor=white)
 ![DaVinci Resolve](https://img.shields.io/badge/-DaVinci_Resolve-231F20?style=flat&logo=davinci-resolve&logoColor=white)
 
 ---
