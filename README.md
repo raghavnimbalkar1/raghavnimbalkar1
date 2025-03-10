@@ -54,7 +54,7 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=raghavnimbalkar1&show_icons=true&theme=radical" alt="Raghav's GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghavnimbalkar1&layout=compact&theme=radical" alt="Top Languages" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=raghavnimbalkar1&theme=radical" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=raghavnimbalkar1&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
