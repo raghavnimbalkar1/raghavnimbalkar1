@@ -39,9 +39,8 @@
 
 ## 📈 Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=raghavnimbalkar1&theme=react-dark" alt="Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raghavnimbalkar1&theme=react-dark" alt="Activity Graph">
 </p>
-
 ---
 
 ## 🏆 GitHub Trophies
@@ -52,7 +51,6 @@
 ---
 
 ## 🌟 My Contributions
-- 💡 Improving user experiences in blockchain-based applications.  
 - 🎨 Designing pixel art and shaders for a nostalgic game feel.  
 - 🔍 Building efficient and secure backend systems.  
 
@@ -82,7 +80,7 @@
 
 - [LinkedIn](https://www.linkedin.com/in/raghavnimbalkar)  
 - [Twitter](https://twitter.com/your-twitter-handle)  
-- [Portfolio]([https://your-portfolio-link.com](https://raghavnimbalkarshowcase.vercel.app/gallery)  
+- [Portfolio](https://raghavnimbalkarshowcase.vercel.app/gallery)  
 - 📧 **Email:** raghavnimbalkar@example.com  
 
 ---
