@@ -18,8 +18,8 @@
 ## 🛠️ Tech Stack
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
@@ -30,7 +30,7 @@
 ![OpenGL](https://img.shields.io/badge/-OpenGL-5586A4?style=flat&logo=opengl&logoColor=white)
 ![GLSL](https://img.shields.io/badge/GLSL-008080?style=flat&logo=opengl&logoColor=white)
 ![Aseprite](https://img.shields.io/badge/-Aseprite-7D929E?style=flat&logo=aseprite&logoColor=white)
-![FL Studio](https://img.shields.io/badge/-FL_Studio-F48C00?style=flat&logo=fl-studio&logoColor=white)
+![FL Studio](https://img.shields.io/badge/-FL_Studio-F48C00?style=flat&logo=image-line&logoColor=white)
 ![DaVinci Resolve](https://img.shields.io/badge/-DaVinci_Resolve-231F20?style=flat&logo=davinci-resolve&logoColor=white)
 
 ---
