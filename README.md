@@ -3,7 +3,7 @@
 **`Software Developer | Game Developer |`**
 
 - 🎓 Final-year Computer Science Student  
-- 💻 Building [ChainTix](https://github.com/raghavnimbalkar1/ChainTix) - Blockchain-based ticketing system  
+- 💻 Building [UniHaven](https://github.com/raghavnimbalkar1/UniHaven) - Helping people find accomodation.  
 - 🌱 Currently learning C, C#, C++, DSA, and OpenGL
 
 ---
