@@ -46,6 +46,7 @@
 [![Krita](https://img.shields.io/badge/Krita-203759?logo=krita&logoColor=EEF37B)](#)
 ![Aseprite](https://img.shields.io/badge/-Aseprite-7D929E?style=flat&logo=aseprite&logoColor=white)
 ![FL Studio](https://img.shields.io/badge/-FL_Studio-F48C00?style=flat&logo=flstudio&logoColor=white)
+![Ableton Live](https://img.shields.io/badge/-Ableton_Live-000000?style=flat&logo=ableton&logoColor=white)
 ![DaVinci Resolve](https://img.shields.io/badge/-DaVinci_Resolve-231F20?style=flat&logo=davinci-resolve&logoColor=white)
 
 
