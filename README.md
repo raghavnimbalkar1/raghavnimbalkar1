@@ -11,7 +11,7 @@
 
 ## 🚀 Featured Projects
 - [ChainTix](https://github.com/raghavnimbalkar1/ChainTix) - Blockchain-based ticketing system with NFT tickets using MERN and Tailwind.  
-- [Personal Blog](https://github.com/raghavnimbalkar1/Personal-Blog) - Blog Website made using Next.js and Tailwind.  
+- [Personal Blog](https://www.raghavnimbalkar.xyz) - Photography Portfolio Website using MERN.  
 - [DigitalShelf](https://github.com/raghavnimbalkar1/DigitalShelf) - Media collection tracker using Next.js and Tailwind.  
 
 ---
