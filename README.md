@@ -1,131 +1,128 @@
-# Hi, I'm Raghav Nimbalkar!
+# Hi, I'm Raghav Nimbalkar! 👋
 
-**`Software Developer | Game Developer |`**
+**`Software Developer | Game Developer | Blockchain Enthusiast`**
 
-- 💻 Checkout my [Portfolio](https://www.raghavnimbalkar.xyz/) website.  
+- 💻 Checkout my [Portfolio](https://www.raghavnimbalkar.xyz/)  
 - 🎓 Final-year Computer Science Student  
-- 💻 Building [UniHaven](https://github.com/raghavnimbalkar1/UniHaven) - Helping people find accomodation.  
-- 🌱 Currently learning C, C#, C++, DSA, and OpenGL
+- 💻 Building [UniHaven](https://github.com/raghavnimbalkar1/UniHaven) - Helping people find accommodation.  
+- 🌱 Currently learning C, C#, C++, DSA, and OpenGL  
 
 ---
 
 ## 🚀 Featured Projects
-- [ChainTix](https://github.com/raghavnimbalkar1/ChainTix) - Blockchain-based ticketing system with NFT tickets using MERN and Tailwind.  
-- [Personal Blog](https://www.raghavnimbalkar.xyz) - Photography Portfolio Website using MERN.  
-- [DigitalShelf](https://github.com/raghavnimbalkar1/DigitalShelf) - Media collection tracker using Next.js and Tailwind.  
+<div align="center">
+  <a href="https://github.com/raghavnimbalkar1/ChainTix">
+    <img src="https://img.shields.io/badge/ChainTix-Blockchain_Tickets-blue?style=for-the-badge&logo=ethereum&logoColor=white" alt="ChainTix">
+  </a>
+  <a href="https://www.raghavnimbalkar.xyz">
+    <img src="https://img.shields.io/badge/Personal_Blog-Photography-green?style=for-the-badge&logo=wordpress&logoColor=white" alt="Personal Blog">
+  </a>
+  <a href="https://github.com/raghavnimbalkar1/DigitalShelf">
+    <img src="https://img.shields.io/badge/DigitalShelf-Media_Tracker-purple?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="DigitalShelf">
+  </a>
+</div>
 
 ---
 
 ## 🛠️ Tech Stack
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=csharp&logoColor=white)](#)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-[![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)](#)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-[![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
-[![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
-![OpenGL](https://img.shields.io/badge/-OpenGL-5586A4?style=flat&logo=opengl&logoColor=white)
-![GLSL](https://img.shields.io/badge/GLSL-008080?style=flat&logo=opengl&logoColor=white)
-[![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#)
-[![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=white)](#)
-[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
-[![Hyper](https://img.shields.io/badge/Hyper-000000?logo=hyper&logoColor=fff)](#)
-[![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white)](#)
-[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white)](#)
-[![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white)](#)
-![Godot](https://img.shields.io/badge/-Godot-478CBF?style=flat&logo=godot-engine&logoColor=white)
-[![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?logo=unrealengine&logoColor=white)](#)
-![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat&logo=blender&logoColor=white)
-[![Krita](https://img.shields.io/badge/Krita-203759?logo=krita&logoColor=EEF37B)](#)
-![Aseprite](https://img.shields.io/badge/-Aseprite-7D929E?style=flat&logo=aseprite&logoColor=white)
-![FL Studio](https://img.shields.io/badge/-FL_Studio-F48C00?style=flat&logo=flstudio&logoColor=white)
-![Ableton Live](https://img.shields.io/badge/-Ableton_Live-000000?style=flat&logo=ableton&logoColor=white)
-![DaVinci Resolve](https://img.shields.io/badge/-DaVinci_Resolve-231F20?style=flat&logo=davinci-resolve&logoColor=white)
 
+<div align="center">
+  <!-- Programming Languages -->
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+</div>
+
+<div align="center">
+  <!-- Web / Backend -->
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+</div>
+
+<div align="center">
+  <!-- Game Dev / Graphics -->
+  <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GLSL-008080?style=for-the-badge&logo=opengl&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white"/>
+</div>
+
+<div align="center">
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=raghavnimbalkar1&show_icons=true&theme=radical" alt="Raghav's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghavnimbalkar1&layout=compact&theme=radical" alt="Top Languages" />
-<img src="https://github-readme-streak-stats.vercel.app?user=raghavnimbalkar1&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=raghavnimbalkar1&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghavnimbalkar1&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
----
-
-## 📈 Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raghavnimbalkar1&theme=react-dark" alt="Activity Graph">
-</p>
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=raghavnimbalkar1&theme=radical&margin-w=15&margin-h=15" alt="GitHub Trophies">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raghavnimbalkar1&theme=radical" alt="GitHub Streak"/>
 </p>
 
 ---
 
 ## 🌟 My Contributions
-- 🎨 Designing pixel art and shaders for a nostalgic game feel.  
-- 🔍 Building efficient and secure backend systems.  
-
----
-
-## 🛠️ Tools I Use
-
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
-![Aseprite](https://img.shields.io/badge/-Aseprite-7D929E?style=flat&logo=aseprite&logoColor=white)
-![FL Studio](https://img.shields.io/badge/-FL%20Studio-F89F1B?style=flat&logo=fl-studio&logoColor=white)
+- 🎨 Designing pixel art and shaders for a nostalgic game feel  
+- 🔍 Building efficient and secure backend systems  
+- 🏗 Contributing to open-source projects in C++/C# and Web Dev  
 
 ---
 
 ## 📚 Currently Learning
-
-- 🔹 Advanced C++ and STL  
-- 🔹 GLSL for shaders in Godot  
-- 🔹 Data Structures and Algorithms  
-- 🔹 Color Grading in DaVinci Resolve  
+<div align="center">
+  <img src="https://img.shields.io/badge/Advanced%20C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GLSL%20Shaders-008080?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DSA-F4A261?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Color%20Grading-DaVinci%20Resolve-231F20?style=for-the-badge"/>
+</div>
 
 ---
 
 ## 📫 Reach Me
-
-- [LinkedIn](https://www.linkedin.com/in/raghavnimbalkar)  
-- [Twitter](https://twitter.com/your-twitter-handle)  
-- [Portfolio](https://raghavnimbalkar.xyz)  
-- 📧 **Email:** raghav.nimbalkar@gmail.com  
+<div align="center">
+  <a href="https://www.linkedin.com/in/raghavnimbalkar">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/your-twitter-handle">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="mailto:raghav.nimbalkar@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
 
 ---
 
 ## 🎯 Goals for 2025
-
-- 🚀 Complete and launch **ChainTix**.  
-- 🛠 Build a LAN-based voice and chat system like Discord in C#/C++.
-- 🛠 Build a Notion based app to track tasks and other objectives using C#/C++.    
+- 🚀 Complete and launch **ChainTix**  
+- 🛠 Build a LAN-based voice and chat system like Discord in C#/C++  
+- 🛠 Build a Notion-inspired app to track tasks and objectives using C#/C++  
 
 ---
 
 ## 💬 Quote
+> “We can only see a short distance ahead, but we can see plenty there that needs to be done.”  
+> — Alan Turing
 
-“We can only see a short distance ahead, but we can see plenty there that needs to be done.”
-— Alan Turing
-
-### 🌟 Thank You for visiting my profile! ⭐️
+---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=raghavnimbalkar1&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
-
----
