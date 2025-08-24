@@ -104,8 +104,8 @@
 
 - [LinkedIn](https://www.linkedin.com/in/raghavnimbalkar)  
 - [Twitter](https://twitter.com/your-twitter-handle)  
-- [Portfolio](https://raghavnimbalkarshowcase.vercel.app/gallery)  
-- 📧 **Email:** raghavnimbalkar1010@gmail.com  
+- [Portfolio](https://raghavnimbalkar.xyz)  
+- 📧 **Email:** raghav.nimbalkar@gmail.com  
 
 ---
 
@@ -122,7 +122,7 @@
 “We can only see a short distance ahead, but we can see plenty there that needs to be done.”
 — Alan Turing
 
-### 🌟 Thanks for visiting my profile! ⭐️
+### 🌟 Thank You for visiting my profile! ⭐️
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=raghavnimbalkar1&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
