@@ -1,6 +1,6 @@
 # Hi, I'm Raghav Nimbalkar! 👋
 
-**`Software Developer | Game Developer | Blockchain Enthusiast`**
+**`Software Development | Game Development | Data Science`**
 
 - 💻 Checkout my [Portfolio](https://www.raghavnimbalkar.xyz/)  
 - 🎓 Final-year Computer Science Student  
