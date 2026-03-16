@@ -1,15 +1,12 @@
-# Hi, I'm Raghav Nimbalkar! 👋
+# I'm Raghav ! 
 
 **`Software Development | Game Development | Data Science`**
 
-- 💻 Checkout my [Portfolio](https://www.raghavnimbalkar.xyz/)  
-- 🎓 Final-year Computer Science Student  
-- 💻 Building [UniHaven](https://github.com/raghavnimbalkar1/UniHaven) - Helping people find accommodation.  
-- 🌱 Currently learning C, C#, C++, DSA, and OpenGL  
-
+- Currently learning C, C#, C++, GLSL and OpenGL  
+- Working on an Agentic Graph-Based RCA for Cascading Failures in Large-Scale Cloud Systems using LangChain and LangGraph
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 <div align="center">
   <a href="https://github.com/raghavnimbalkar1/ChainTix">
     <img src="https://img.shields.io/badge/ChainTix-Blockchain_Tickets-blue?style=for-the-badge&logo=ethereum&logoColor=white" alt="ChainTix">
@@ -24,7 +21,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
   <!-- Programming Languages -->
@@ -66,7 +63,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=raghavnimbalkar1&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghavnimbalkar1&layout=compact&theme=radical" alt="Top Languages" />
@@ -78,14 +75,14 @@
 
 ---
 
-## 🌟 My Contributions
-- 🎨 Designing pixel art and shaders for a nostalgic game feel  
-- 🔍 Building efficient and secure backend systems  
-- 🏗 Contributing to open-source projects in C++/C# and Web Dev  
+## My Contributions
+- Designing pixel art and shaders for a nostalgic game feel  
+- Building efficient and secure backend systems  
+- Contributing to open-source projects in C++/C# and Web Dev  
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 <div align="center">
   <img src="https://img.shields.io/badge/Advanced%20C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/GLSL%20Shaders-008080?style=for-the-badge"/>
@@ -95,7 +92,7 @@
 
 ---
 
-## 📫 Reach Me
+## Reach Me
 <div align="center">
   <a href="https://www.linkedin.com/in/raghavnimbalkar">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -110,18 +107,6 @@
 
 ---
 
-## 🎯 Goals for 2025
-- 🚀 Complete and launch **ChainTix**  
-- 🛠 Build a LAN-based voice and chat system like Discord in C#/C++  
-- 🛠 Build a Notion-inspired app to track tasks and objectives using C#/C++  
-
----
-
-## 💬 Quote
-> “We can only see a short distance ahead, but we can see plenty there that needs to be done.”  
-> — Alan Turing
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=raghavnimbalkar1&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
