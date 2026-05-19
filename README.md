@@ -1,8 +1,8 @@
 # Raghav Nimbalkar
 
-**Systems · AI Research · Game Engineering**
+**ML · AI · DS · Game Development & Design **
 
-From real-time shader pipelines to agentic graph-based reasoning systems. Currently pursuing M.Tech in Data Science.
+From real-time shader pipelines to agentic graph-based reasoning systems. Currently pursuing M.Tech in Data Science & AI.
 
 ---
 
