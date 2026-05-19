@@ -2,7 +2,7 @@
 
 **Systems · AI Research · Game Engineering**
 
-I build things at the intersection of low-level systems and applied intelligence — from real-time shader pipelines to agentic graph-based reasoning systems. Currently pursuing M.Tech in Data Science.
+From real-time shader pipelines to agentic graph-based reasoning systems. Currently pursuing M.Tech in Data Science.
 
 ---
 
@@ -14,13 +14,13 @@ Graph-structured retrieval and skill-graph reasoning over cascading failure trac
 **[Screenplay GPT-2 Fine-Tuning Study](https://github.com/raghavnimbalkar1/screenplay-gpt2-finetuning-study)**  
 Comparative study of full-parameter fine-tuning vs. LoRA adaptation for structured creative text generation using GPT-2 Small (124M). Trained across AMD DirectML, Apple Silicon, and NVIDIA T4 (CUDA) backends. Includes a stateful checkpoint recovery from a mid-run hardware preemption at step 5,600/9,272 — resumed with zero loss discontinuity. Both fine-tuned model weights published to Hugging Face Hub. Final validation loss: **1.3194**.
 
-**StudyBuddy — Local RAG Assistant**  
+**[StudyBuddy — Local RAG Assistant](https://github.com/raghavnimbalkar1/Local-RAG-pipeline-for-college-notes-study-material)**  
 Fully offline retrieval-augmented generation over personal document corpora (PDF/PPT). SentenceTransformers for embeddings, FAISS for vector search, Llama 8B via LM Studio for inference. Zero cloud dependency; citation-grounded answers with source chunk attribution.
 
-**Multi-Class News Classification**  
+**[Multi-Class News Classification](https://github.com/raghavnimbalkar1/Multi-Class-News-Classification)**  
 End-to-end NLP pipeline classifying articles across 42 categories (LinearSVC) and 13 consolidated super-categories (LinearSVC + XGBoost). Modular 4-stage architecture: scraping → preprocessing → training → analytics. Ships with an interactive Streamlit dashboard supporting live URL scraping, batch CSV processing, and per-category confusion matrix visualization.
 
-**Live Win Probability Engine**  
+**[Live Win Probability Engine](https://github.com/raghavnimbalkar1/football-win-prediction)**  
 Real-time Bundesliga match prediction via Monte Carlo simulation over Poisson-distributed Elo ratings. FastAPI backend with WebSocket delivery of mid-match probability updates. MySQL persistence, Redis caching with mock fallback, and full SQLAlchemy ORM layer.
 
 ---
@@ -28,12 +28,12 @@ Real-time Bundesliga match prediction via Monte Carlo simulation over Poisson-di
 ## Technical Profile
 
 ```
-Languages        C · C++ · C# · Python · GLSL
+Languages        C · C++ · Python 
 Graphics         OpenGL · GLSL Shader Development · Pixel Art Pipeline
 AI / ML          LangChain · LangGraph · FAISS · HuggingFace Transformers
                  Fine-tuning (Full + LoRA/PEFT) · RAG · Graph Neural Reasoning
 ML Ops           Checkpoint Recovery · Mixed Precision (FP16) · Multi-backend Training
-Backend          FastAPI · WebSockets · SQLAlchemy · Redis · MySQL
+Backend/DB       FastAPI · WebSockets · SQL · Redis 
 ```
 
 ---
@@ -47,10 +47,11 @@ Two fine-tuned models on Hugging Face — GPT-2 Small adapted for screenplay gen
 
 ## Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raghavnimbalkar1&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=default&hide=stars)
-&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raghavnimbalkar1&layout=compact&hide_border=true&theme=default&langs_count=6)
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raghavnimbalkar1&theme=default)
+![GitHub Streak](https://streak-stats.demolab.com?user=raghavnimbalkar1&hide_border=true&date_format=j%20M%5B%20Y%5D)
+![](https://img.shields.io/github/followers/raghavnimbalkar1?style=flat&label=Followers&color=black)
+![](https://img.shields.io/badge/Models%20on%20HF-2-orange?style=flat)
+![](https://img.shields.io/badge/M.Tech-Data%20Science-blue?style=flat)
 ---
 
 ## Currently
