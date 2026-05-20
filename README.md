@@ -1,6 +1,6 @@
 # Raghav Nimbalkar
 
-**ML · AI · DS · Game Development & Design **
+**ML · AI · DS · Game Development & Design**
 
 From real-time shader pipelines to agentic graph-based reasoning systems. Currently pursuing M.Tech in Data Science & AI.
 
@@ -8,7 +8,7 @@ From real-time shader pipelines to agentic graph-based reasoning systems. Curren
 
 ## Work
 
-**Agentic GraphRAG for Root Cause Analysis** &nbsp;·&nbsp; *In Progress*  
+**[Agentic GraphRAG for Root Cause Analysis](https://github.com/raghavnimbalkar1/Agentic-GraphRAG-for-Root-Cause-Analysis-)** &nbsp;·&nbsp; *In Progress*  
 Graph-structured retrieval and skill-graph reasoning over cascading failure traces in large-scale cloud microservices. Built on LangChain and LangGraph. Targeting autonomous, explainable RCA without human-in-the-loop triage.
 
 **[Screenplay GPT-2 Fine-Tuning Study](https://github.com/raghavnimbalkar1/screenplay-gpt2-finetuning-study)**  
