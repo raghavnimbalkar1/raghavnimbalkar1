@@ -60,4 +60,4 @@ Designing procedural shaders and pixel art pipelines for a retro-aesthetic game 
 
 ---
 
-[LinkedIn](https://linkedin.com/in/raghavnimbalkar) &nbsp;·&nbsp; [Hugging Face](https://huggingface.co/raghavnimbalkar) &nbsp;·&nbsp; [Email](mailto:raghav.nimbalkar1010@gmail.com)
+[LinkedIn](https://linkedin.com/in/raghavnimbalkar) &nbsp;·&nbsp; [Hugging Face](https://huggingface.co/raghavnimbalkar) &nbsp;·&nbsp; [Email](mailto:raghav.nimbalkar1010@gmail.com) &nbsp;·&nbsp; [Kaggle](https://www.kaggle.com/raghavnimbalkar10)
