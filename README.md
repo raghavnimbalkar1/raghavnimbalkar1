@@ -40,7 +40,7 @@ Backend/DB       FastAPI · WebSockets · SQL · Redis
 
 ## Published
 
-Two fine-tuned models on Hugging Face — GPT-2 Small adapted for screenplay generation, trained across multiple hardware backends with full training telemetry documented.  
+Two fine-tuned models and tokenized dataset used to fine tune the model on Hugging Face — GPT-2 Small adapted for screenplay generation, trained across multiple hardware backends with full training telemetry documented.  
 → [huggingface.co/raghavnimbalkar1](https://huggingface.co/raghavnimbalkar)
 
 ---
